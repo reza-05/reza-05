@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey there, I'm Reza
 
-<!--
-**reza-05/reza-05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CSE student currently building **[DrawSlate](https://drawslate.com)** — an offline-first digital notebook that feels like real paper.
 
-Here are some ideas to get you started:
+### DrawSlate
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Inking Engine:** Low-latency stylus handwriting optimized for Apple Pencil, S-Pen, and drawing tablets.
+* **Features:** PDF textbook annotation, STEM & math diagrams, geometric shapes, and audio voice memos.
+* **Platform:** Web application and native iPadOS client.
+
+---
+
+Website: [drawslate.com](https://drawslate.com)
