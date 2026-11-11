@@ -1,6 +1,6 @@
 # Hey there, I'm Reza
 
-CSE student currently building **[DrawSlate](https://drawslate.com)** — an offline-first digital notebook that feels like real paper.
+I'm a CSE student and currently building **[DrawSlate](https://drawslate.com)** — an offline-first digital notebook that feels like real paper.
 
 ### DrawSlate
 
