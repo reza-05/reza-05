@@ -1,4 +1,4 @@
-# Hey there, I'm Reza
+# Hey there, I'm Shifat Reza
 
 I'm a CSE student and currently building **[DrawSlate](https://drawslate.com)** — an offline-first digital notebook that feels like real paper.
 
